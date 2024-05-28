@@ -4,9 +4,9 @@
 - Master of Economics, The University of Queensland, Brisbane - Australia
 - Bachelor of Economics, Pontificia Uniersidad Católica del Ecuador, Quito - Ecuador
 
-### Work experience
+## Work experience
 
-- **Sr Data Scientist**
+### **Sr Data Scientist**
 
   Banco Pichincha - COE of Advanced Analytics
   Responsibilities: Business-oriented problem solving using statistical and ML techniques.
