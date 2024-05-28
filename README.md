@@ -9,7 +9,9 @@
 ### **Sr Data Scientist**
 
   Banco Pichincha - COE of Advanced Analytics
+  
   Responsibilities: Business-oriented problem solving using statistical and ML techniques.
+  
   Mar 2019 - April 2024
   
  Main projects:
