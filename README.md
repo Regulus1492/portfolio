@@ -15,7 +15,7 @@
 
 ## Work experience
 
-### **Sr Data Scientist**
+### Sr Data Scientist
 
   Banco Pichincha - COE of Advanced Analytics
   
@@ -40,5 +40,21 @@
   - Technologies: R, Python, Anaconda,SQL,Jupyternotebooks,LATEX,Markdown,Databricks(PySpark,Sparklyr, Spark SQL).
   
 
-- 
+  ### Jr Consultant | Data analysis
+  Bloomberg Philanthropies - Data for Health Initiative
+
+  Mar 2018 - 2019
+
+  Experimenting with small area estimation framework to estimate county-level malnourishment in Ecuador
+
+  ### Senior Analyst
+  National Institute of Statistics and Census (INEC), Quito Ecuador
+
+  Jan 2016  – Apr 2018
+
+  Indicators implementation based on the UN's SDGs, and collaboration on writing poverty and inequality analysis
+
+  
+
+  
 
