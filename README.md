@@ -1,15 +1,11 @@
 # Data Scientits
 
 ## Education
-- Master of Economics
-  
-  The University of Queensland
+- Master of Economics, The University of Queensland
   
   Brisbane - Australia
   
-- Bachelor of Economics
-  
-  Pontificia Uniersidad Católica del Ecuador
+- Bachelor of Economics, Pontificia Uniersidad Católica del Ecuador
   
   Quito - Ecuador
 
