@@ -36,7 +36,7 @@
   - Technologies: R, Python, Anaconda,SQL,Jupyternotebooks,LATEX,Markdown,Databricks(PySpark,Sparklyr, Spark SQL).
   
 
-  ### Jr Consultant | Data analysis
+  ### Jr Consultant, Data analysis
   Bloomberg Philanthropies - Data for Health Initiative
 
   Mar 2018 - 2019
