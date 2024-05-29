@@ -50,6 +50,20 @@ Jan 2016  – Apr 2018
 
 Indicators implementation based on the UN's SDGs, and collaboration on writing poverty and inequality analysis
 
+### Additional experience
+
+- Senior Analyst, SENPLADES, Quito Ecuador, Sep 2015 – Dec 2015: economic analysis
+- Lecturer, The University of the Americas (UDLA), Quito - Ecuador, Sep 2014 - Aug 2015
+- Economic Analyst (full-time internship) Regional Development Australia (RDA), Brisbane - Australia, Jan 2013 - Feb 2013
+- Statistical Analyst, National Institute of Statistics and Census (INEC), Quito - Ecuador, Aug 2010 - Dec 2011
+
+### Current projects
+
+**Semantic Scholar Data Mining**
+
+
+
+
   
 
   
