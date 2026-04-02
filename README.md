@@ -1,70 +1,71 @@
-# Data Scientist
+# Juan Carlos Serrano
+## Data Scientist
 
-## Education
-- Master of Economics, The University of Queensland
-  
-  Brisbane - Australia
-  
-- Bachelor of Economics, Pontificia Uniersidad Católica del Ecuador
-  
-  Quito - Ecuador
+Results-driven Data Scientist with over six years of experience in designing and implementing machine learning solutions to solve complex business challenges, particularly within the financial sector. Adept at leveraging advanced analytics and data-driven insights to drive innovation, optimize user experiences, and deliver measurable business value.
 
-## Work experience
+## Core Competencies
+- **Machine Learning & NLP:** XGBoost, Logistic Regression, Hugging Face (Translation/NLP), Scikit-learn, PyTorch.
+- **Big Data & Cloud:** PySpark, Azure Databricks, Azure DevOps.
+- **Data Engineering:** SQL (Verified Expert), Python (Pandas), Automated Data Mining.
+- **Economics & Statistics:** Econometrics, Multivariate Analysis (FAMD), Micro-simulations.
+
+## Professional Experience
+
+### Consultant Contractor
+**CGESPLAN** | Jan 2026 – Present
+
+### Credit Risk Specialist
+**BIESS** | Feb 2025 – Jan 2026
+- Developed a behavioral credit scoring model using a champion approach (Logistic Regression & XGBoost) for 3-6-12 month horizons.
+- Performed multivariate client analysis using Factor Analysis of Mixed Data (FAMD).
+
+### Data Scientist (Consultancy Services)
+**Various Firms** | May 2024 – Nov 2025
+- **NLP Pipeline (Diversa):** Developed an NLP pipeline using Hugging Face to extract insights from political speeches.
+- **Labor Gap Analysis (OIT - CGESPLAN):** Modeled salary/employment gaps using Heckman correction and micro-simulations to assess policy measures.
+- **Automated Data Mining:** Built structured research tables by automating data extraction from academic engines.
 
 ### Sr Data Scientist
+**Banco Pichincha - COE of Advanced Analytics** | Mar 2019 – Apr 2024
+- **Potential Deposits Model:** Led the development of a multi-model framework that **increased savings account adoption by $100k USD**.
+- **Geo-Statistics Model:** Built a kriging-based model to predict county-level banking transaction totals.
+- **Predictive Modeling:** Developed models for loan default prevention, long-term deposit renewal, and "Next Product to Buy" recommendation systems.
+- **Segmentation:** Created digital-client clusters to foster adoption of digital banking channels.
 
-  Banco Pichincha - COE of Advanced Analytics
-  
-  Responsibilities: Business-oriented problem solving using statistical and ML techniques.
-  
-  Mar 2019 - April 2024
-  
- Main projects:
-  
-  - Potential Deposits model: leveraged a novel multi-model approach to develop a cutting-edge potential model estimation framework. Applied this framework to drive campaigns aimed at increasing client savings.
-  
-  - Geo-Statistics model for a county-level transaction estimation: kriging-based model to predict county level totals of banking transactions
-  
-  - Default model: default model usingML ,cloud computing tools and collection information, to prevent costumer default.
-  
-  - Long-term deposits model : Model to predict long-term deposits renewal or acquisition
-  
-  - Next product to buy : recommender system model applied on Bank products for low and middle value costumers.
-  
-  - Digital-client segmentation model: clusters on digital and non-digital clients to foster client usage of digital channels.
-  
-  - Technologies: R, Python, Anaconda,SQL,Jupyternotebooks,LATEX,Markdown,Databricks(PySpark,Sparklyr, Spark SQL).
-  
-
-### Jr Consultant, Data analysis
-Bloomberg Philanthropies - Data for Health Initiative
-
-Mar 2018 - 2019
-
-Experimenting with small area estimation framework to estimate county-level malnourishment in Ecuador
+### Junior Consultant
+**Bloomberg Philanthropies** | Apr 2018 – Mar 2019
+- Experimented with small area estimation frameworks to estimate county-level malnourishment in Ecuador.
 
 ### Senior Analyst
-National Institute of Statistics and Census (INEC), Quito Ecuador
+**National Institute of Statistics and Census (INEC)** | Jan 2016 – Apr 2018
+- Implemented UN Sustainable Development Goal (SDG) indicators in cooperation with the World Bank and FAO.
+- Applied the FIES scale on national data using Rasch logistic models.
 
-Jan 2016  – Apr 2018
+---
 
-Indicators implementation based on the UN's SDGs, and collaboration on writing poverty and inequality analysis
+## Selected Projects
 
-### Additional experience
+### Semantic Scholar Data Mining
+*Automated pipeline for extracting and structuring academic research data.*
+*(Full details coming soon in Step 4)*
 
-- Senior Analyst, SENPLADES, Quito Ecuador, Sep 2015 – Dec 2015: economic analysis
-- Lecturer, The University of the Americas (UDLA), Quito - Ecuador, Sep 2014 - Aug 2015
-- Economic Analyst (full-time internship) Regional Development Australia (RDA), Brisbane - Australia, Jan 2013 - Feb 2013
-- Statistical Analyst, National Institute of Statistics and Census (INEC), Quito - Ecuador, Aug 2010 - Dec 2011
+---
 
-### Current projects
+## Certifications
+- **Data Science and Big Data Analytics** – MIT xPRO (2020)
+- **CS50: Introduction to Computer Science** – Harvard University (2022)
+- **The Ultimate MySQL Bootcamp: Beginner to Expert** – Udemy (2021)
+- **Advanced Econometrics** – FLACSO Quito (2017)
 
-**Semantic Scholar Data Mining**
+## Education
+- **Master of Economics** – The University of Queensland, Australia (2013)
+- **Bachelor of Economics** – Pontificia Universidad Católica del Ecuador (2010)
 
+## Languages
+- **Spanish:** Native
+- **English:** Advanced
+- **French:** Basic
 
-
-
-  
-
-  
-
+## Contact
+[!LinkedIn](https://www.linkedin.com/in/juan-carlos-serrano-mera/) 
+[!GitHub](https://github.com/Regulus1492)
