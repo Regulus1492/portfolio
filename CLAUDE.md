@@ -21,9 +21,10 @@ There are no automated tests. Validate changes by running `jekyll serve` and che
 ## Architecture
 
 - **`_config.yml`**: Jekyll site metadata (title, logo path, theme). Uses `jekyll-theme-minimal`.
-- **`README.md`**: Currently the main website content rendered by GitHub Pages as the homepage. Contains the full professional profile (bio, experience, certifications, etc.).
+- **`index.md`**: Website homepage content (rendered by GitHub Pages). Contains the full professional profile (bio, experience, certifications, etc.). Jekyll prioritizes `index.md` over `README.md`.
+- **`README.md`**: Technical guide for developers (stack, setup, file map). Not rendered as the live site homepage.
 - **`PORTFOLIO_PLAN.md`**: Strategic roadmap — read this before making any content changes to understand intended direction and what's already been decided.
-- **`my_cv.txt`**: Gitignored source-of-truth for the full professional history. Use this to cross-reference and enrich content in `README.md`. It contains more detail and exact dates than the live site.
+- **`my_cv.txt`**: Gitignored source-of-truth for the full professional history. Use this to cross-reference and enrich content in `index.md`. It contains more detail and exact dates than the live site.
 - **`assets/img/`**: Profile photo and other static images.
 
 ## Content Sync Convention
@@ -32,9 +33,9 @@ When content is later split into sections, the planned convention is **tag-based
 
 ## Active Roadmap (PORTFOLIO_PLAN.md)
 
-Steps 1 and 2 are complete. Remaining work:
+Steps 1, 2, and 1a (infrastructure) are complete. **Next step: Step 3.**
 
-- **Step 3**: Refactor the Experience section — concise, impact-first, client-friendly language.
+- **Step 3** ← resume here: Refactor the Experience section in `index.md` — concise, impact-first, client-friendly language. Cross-reference `my_cv.txt` for detail.
 - **Step 4a**: Draft a project README for a selected GitHub project.
 - **Step 4b**: Design a reusable project card template and add it to the portfolio.
 - **Step 5**: Hireability audit from a non-technical client's perspective.
