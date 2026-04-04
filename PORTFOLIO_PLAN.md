@@ -62,7 +62,7 @@ This phase focuses on aligning the repository with industry best practices for S
 ## 4. Progress Tracker
 - [x] Step 1 — Audit
 - [x] Step 2 — Apply fixes
-- [ ] Step 3 — Simplify experience
+- [x] Step 3 — Simplify experience
 - [ ] Step 4a — Write README
 - [ ] Step 4b — Project card
 - [ ] Step 5 — Final review

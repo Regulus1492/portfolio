@@ -18,33 +18,47 @@ Results-driven Data Scientist with over six years of experience in designing and
 
 ### Consultant Contractor
 **CGESPLAN** | Jan 2026 – Present
+- Providing economic and data consulting advisory services while actively pursuing new data science engagements.
 
 ### Credit Risk Specialist
 **BIESS** | Feb 2025 – Jan 2026
-- Developed a behavioral credit scoring model using a champion approach (Logistic Regression & XGBoost) for 3-6-12 month horizons.
-- Performed multivariate client analysis using Factor Analysis of Mixed Data (FAMD).
+- Built behavioral credit scoring models (Logistic Regression & XGBoost) predicting client default risk at 3, 6, and 12-month horizons, enabling proactive portfolio risk management.
+- Conducted multivariate client segmentation using Factor Analysis of Mixed Data (FAMD) to identify risk-differentiated client profiles.
 
-### Data Scientist (Consultancy Services)
-**Various Firms** | May 2024 – Nov 2025
-- **NLP Pipeline (Diversa):** Developed an NLP pipeline using Hugging Face to extract insights from political speeches.
-- **Labor Gap Analysis (OIT - CGESPLAN):** Modeled salary/employment gaps using Heckman correction and micro-simulations to assess policy measures.
-- **Automated Data Mining:** Built structured research tables by automating data extraction from academic engines.
+### Data Scientist — Consultancy
+**Various Clients** | May 2024 – Nov 2025
+- **NLP Pipeline (Diversa):** Built an end-to-end NLP pipeline using Hugging Face to extract actionable insights from political speech data, supporting real-time decision-making.
+- **Labor Policy Modeling (ILO / CGESPLAN):** Designed econometric models (Heckman selection + micro-simulations) to quantify salary and employment gaps, informing government policy recommendations.
+- **Academic Data Mining (Freelance):** Automated structured data extraction from academic research engines, delivering clean, analysis-ready datasets.
 
-### Sr Data Scientist
-**Banco Pichincha - COE of Advanced Analytics** | Mar 2019 – Apr 2024
-- **Potential Deposits Model:** Led the development of a multi-model framework that **increased savings account adoption by $100k USD**.
-- **Geo-Statistics Model:** Built a kriging-based model to predict county-level banking transaction totals.
-- **Predictive Modeling:** Developed models for loan default prevention, long-term deposit renewal, and "Next Product to Buy" recommendation systems.
-- **Segmentation:** Created digital-client clusters to foster adoption of digital banking channels.
+### Sr. Data Scientist
+**Banco Pichincha — Center of Excellence for Advanced Analytics** | Mar 2019 – Apr 2024
+- **Deposits Growth:** Led a multi-model framework estimating client deposit potential; targeted campaigns generated **$100K+ in new savings account adoption**.
+- **Credit & Product Models:** Delivered ML models for loan default prevention, long-term deposit renewal, and product recommendation ("Next Product to Buy") for retail banking clients.
+- **Geospatial Analytics:** Built a kriging-based model predicting county-level banking transaction volumes, enabling branch-level planning.
+- **Digital Segmentation:** Designed behavioral clusters to distinguish digital vs. non-digital clients and drive channel adoption strategies.
+- *Stack: Python, R, PySpark, Azure Databricks, SQL*
 
 ### Junior Consultant
 **Bloomberg Philanthropies** | Apr 2018 – Mar 2019
-- Experimented with small area estimation frameworks to estimate county-level malnourishment in Ecuador.
+- Applied small area estimation to produce county-level malnourishment estimates in Ecuador, supporting evidence-based public health targeting.
 
 ### Senior Analyst
-**National Institute of Statistics and Census (INEC)** | Jan 2016 – Apr 2018
-- Implemented UN Sustainable Development Goal (SDG) indicators in cooperation with the World Bank and FAO.
-- Applied the FIES scale on national data using Rasch logistic models.
+**INEC (National Institute of Statistics and Census)** | Jan 2016 – Apr 2018
+- Implemented UN Sustainable Development Goal indicators (Goals 2, 6, 16) in partnership with the World Bank, WHO-UNICEF JMP, FAO, and UNODC.
+- Applied the FIES (Food Insecurity Experience Scale) using Rasch logistic models to measure food insecurity at national scale.
+
+---
+
+## Earlier Experience
+
+**Government & Statistical Analysis**
+- Senior Analyst, SENPLADES (2015) — Economic analysis for the national Regulatory Agenda for Productive Transformation.
+- Statistical Analyst, INEC (2010–2011) — Inflation indicator analysis.
+
+**Academia & International Development**
+- Lecturer, UDLA (2014–2015) — Game theory, microeconomics, and introductory economics.
+- Economic Analyst (Internship), Regional Development Australia, Brisbane (2013) — Regional economic indicators for RDA Brisbane's planning goals.
 
 ---
 
