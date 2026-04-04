@@ -63,8 +63,8 @@ This phase focuses on aligning the repository with industry best practices for S
 - [x] Step 1 — Audit
 - [x] Step 2 — Apply fixes
 - [x] Step 3 — Simplify experience
-- [ ] Step 4a — Write README
-- [ ] Step 4b — Project card
+- [x] Step 4a — Write README
+- [x] Step 4b — Project card
 - [ ] Step 5 — Final review
 
 ## 5. Decisions & Notes Log

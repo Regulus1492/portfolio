@@ -64,9 +64,18 @@ Results-driven Data Scientist with over six years of experience in designing and
 
 ## Selected Projects
 
-### Semantic Scholar Data Mining
-*Automated pipeline for extracting and structuring academic research data.*
-*(Full details coming soon in Step 4)*
+<!-- START:PROJECTS -->
+
+### Youth Labor Gap Analysis — Ecuador
+**Quantified salary and employment disparities for young workers to inform national labor policy.**
+
+Built econometric models (Heckman selection + micro-simulations) using INEC's ENEMDU household survey — a 15-year longitudinal panel (December 2010–2024) — to estimate gender and age-based labor gaps and simulate the impact of different policy measures. Produced for ILO / CGESPLAN.
+
+*Stack:* `Python` · `R`
+
+[→ View on GitHub](https://github.com/Regulus1492/brecha_juevnil_enemdu)
+
+<!-- END:PROJECTS -->
 
 ---
 
