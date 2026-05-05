@@ -75,6 +75,16 @@ Built econometric models (Heckman selection + micro-simulations) using INEC's EN
 
 [→ View on GitHub](https://github.com/Regulus1492/brecha_juevnil_enemdu)
 
+
+### Personal English Tutor
+**AI-powered English tutor running locally for privacy-first interview and conversation practice.**
+
+Built on Ollama's local LLM models to simulate technical DS interview conversations and general English practice — no data leaves your machine. Persists conversation logs for self-review and iterative improvement.
+
+*Stack:* `Python` · `Ollama`
+
+[→ View on GitHub](https://github.com/Regulus1492/interview_tutor)
+
 <!-- END:PROJECTS -->
 
 ---
